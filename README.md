@@ -1,2 +1,3 @@
-# my-portfolio
-This is a professional portfolio
+# Joe Hebl's portfolio
+
+This is my professional portfolio.  It uses AWS and ReactJS.
